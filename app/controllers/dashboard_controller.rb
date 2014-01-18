@@ -1,5 +1,5 @@
 class DashboardController < ApplicationController
 	def index
-		render text: 'Dashboard'
+		render text: 'Dashboard'	
 	end
 end
